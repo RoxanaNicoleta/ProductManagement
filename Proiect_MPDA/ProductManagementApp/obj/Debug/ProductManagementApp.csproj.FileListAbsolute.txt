@@ -1,0 +1,10 @@
+C:\Users\Valentin\Desktop\Proiect_MPDA\ProductManagementApp\bin\Debug\ProductManagementApp.exe.config
+C:\Users\Valentin\Desktop\Proiect_MPDA\ProductManagementApp\bin\Debug\ProductManagementApp.exe
+C:\Users\Valentin\Desktop\Proiect_MPDA\ProductManagementApp\bin\Debug\ProductManagementApp.pdb
+C:\Users\Valentin\Desktop\Proiect_MPDA\ProductManagementApp\obj\Debug\ProductManagementApp.csproj.AssemblyReference.cache
+C:\Users\Valentin\Desktop\Proiect_MPDA\ProductManagementApp\obj\Debug\ProductManagementApp.MainForm.resources
+C:\Users\Valentin\Desktop\Proiect_MPDA\ProductManagementApp\obj\Debug\ProductManagementApp.Properties.Resources.resources
+C:\Users\Valentin\Desktop\Proiect_MPDA\ProductManagementApp\obj\Debug\ProductManagementApp.csproj.GenerateResource.cache
+C:\Users\Valentin\Desktop\Proiect_MPDA\ProductManagementApp\obj\Debug\ProductManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\Proiect_MPDA\ProductManagementApp\obj\Debug\ProductManagementApp.exe
+C:\Users\Valentin\Desktop\Proiect_MPDA\ProductManagementApp\obj\Debug\ProductManagementApp.pdb
