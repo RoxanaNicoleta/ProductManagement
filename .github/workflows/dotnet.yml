@@ -22,7 +22,7 @@ jobs:
       working-directory: Proiect_MPDA/ProductManagementApp
 
     - name: Build
-      run: dotnet build --no-restore -p:Platform="x86"
+      run: dotnet build --no-restore
       working-directory: Proiect_MPDA/ProductManagementApp
 
     - name: Run tests
