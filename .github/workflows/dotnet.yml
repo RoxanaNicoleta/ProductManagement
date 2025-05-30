@@ -16,7 +16,7 @@ jobs:
     runs-on: windows-latest
 
     env:
-      Solution_Name: ProductManagementApp.sln
+      Solution_Name: Proiect_MPDA/ProductManagementApp/ProductManagementApp.sln
       Test_Project_Path: Proiect_MPDA/UnitTests/UnitTests.csproj
       Wap_Project_Directory: Proiect_MPDA/ProductManagementApp
 
